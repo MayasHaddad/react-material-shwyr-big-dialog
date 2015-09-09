@@ -1,8 +1,8 @@
 {
-  "name": "react-material-shwyr-big-dialog",
-  "version": "0.1.0",
+  "name": "shwyr-summary-dialog",
+  "version": "0.1.1",
   "description": "A dialog box in the material UI way",
-  "main": "./lib/MaterialUiBigDialog.js",
+  "url" : "https://github.com/MayasHaddad/react-material-shwyr-big-dialog.git",
   "keywords": [
     "UI",
     "material-ui",
