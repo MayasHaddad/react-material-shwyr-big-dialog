@@ -2,4 +2,4 @@
 
 var MaterialBigDialog = require('./lib/MaterialUiBigDialog.js');
 
-module.exports = MaterialUiBigDialog;
+module.exports = MaterialBigDialog;
